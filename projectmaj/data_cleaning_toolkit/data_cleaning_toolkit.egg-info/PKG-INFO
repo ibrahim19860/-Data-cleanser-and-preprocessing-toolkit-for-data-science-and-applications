@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: data_cleaning_toolkit
+Version: 0.1.0
+Summary: A toolkit for basic data cleaning operations
+Author: Prudhvinath Dokuparthi
+Author-email: dprudhvinath0106@gmail.com
+Keywords: data cleaning,data preprocessing,pandas,numpy
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=1.0
+Requires-Dist: numpy>=1.18
